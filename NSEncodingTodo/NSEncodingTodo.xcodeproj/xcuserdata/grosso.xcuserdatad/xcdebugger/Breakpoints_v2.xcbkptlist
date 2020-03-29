@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4DDD5331-F18B-4148-8CF2-9FDD269B46F5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "370E5AD8-17FF-428C-9EC6-4910E9878446"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSEncodingTodo/Controllers/TodoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TodoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "370E5AD8-17FF-428C-9EC6-4910E9878446 - 6d0294cb33833a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.dataFilePath.getter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "370E5AD8-17FF-428C-9EC6-4910E9878446 - f16077ca1489d197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(style: __C.UITableViewStyle) -&gt; NSEncodingTodo.TodoViewController"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "370E5AD8-17FF-428C-9EC6-4910E9878446 - 97cb106c6cc8addd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NSEncodingTodo.TodoViewController"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "303">
+               </Location>
+               <Location
+                  uuid = "370E5AD8-17FF-428C-9EC6-4910E9878446 - 89f168846ff0b5f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NSEncodingTodo.TodoViewController&gt;"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D39B7F71-6DA7-41B5-A621-245C229C28CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSEncodingTodo/Controllers/TodoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "TodoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D39B7F71-6DA7-41B5-A621-245C229C28CB - 6d0294cb33833a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.dataFilePath.getter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "D39B7F71-6DA7-41B5-A621-245C229C28CB - f16077ca1489d197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(style: __C.UITableViewStyle) -&gt; NSEncodingTodo.TodoViewController"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "D39B7F71-6DA7-41B5-A621-245C229C28CB - 97cb106c6cc8addd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NSEncodingTodo.TodoViewController"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "303">
+               </Location>
+               <Location
+                  uuid = "D39B7F71-6DA7-41B5-A621-245C229C28CB - 89f168846ff0b5f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSEncodingTodo.TodoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NSEncodingTodo.TodoViewController&gt;"
+                  moduleName = "NSEncodingTodo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grosso/Desktop/Programming_source/Learning/IOS%20bootcamp/practice/20.02.20/NSEncodingTodo/NSEncodingTodo/Controllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
